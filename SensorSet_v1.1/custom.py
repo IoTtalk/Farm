@@ -1,6 +1,6 @@
 import DAN
 
-ServerIP = '210.61.8.56'   #=None:AutoSearch, or ='IP':Connect to this IP
+ServerIP = 'XXX'   #=None:AutoSearch, or ='IP':Connect to this IP
 Comm_interval = 1 # unit:second
 
 def profile_init():
