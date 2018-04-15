@@ -1,6 +1,6 @@
 import DAN
 
-ServerIP='210.61.8.56'
+ServerIP='XXX'
 Comm_interval = 10 # unit:second
 
 def profile_init():
